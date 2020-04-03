@@ -8,4 +8,6 @@
 
 ---
 
-This covers as much as possible about **Glitch**.
+_This covers as much as possible about **Glitch** with the help of the community._
+
+---
