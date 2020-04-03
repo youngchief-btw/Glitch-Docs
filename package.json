@@ -2,8 +2,5 @@
   "engines": {
     "node": "12.x"
   },
-  "dependencies": {
-    "docsify-cli": "^4.3.0",
-    "docsify": "^4.11.3"
-  }
+  "dependencies": {}
 }
