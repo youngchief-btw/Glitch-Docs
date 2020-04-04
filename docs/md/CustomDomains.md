@@ -11,3 +11,7 @@
 **How do I unlink my Glitch project /w a domain??**
 
 Email [support@glitch.com](mailto:support@glitch.com) for domain removals
+
+**I encountered an issue when linking**
+
+Report it at [support.glitch.com](https://support.glitch.com/)
