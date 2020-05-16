@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="108px" height="101px" viewBox="0 0 108 101" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 60 (88103) - https://sketch.com -->
+    <title>Artboard</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Artboard" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="sqlite" transform="translate(13.000000, 16.000000)">
+            <g id="a-link" fill="#FFFFFF" fill-rule="nonzero">
+                <polygon id="a" points="0 0 84 0 84 63 0 63"></polygon>
+            </g>
+            <polygon id="Path" stroke="#222222" stroke-width="3" points="1.5 1.5 82.5 1.5 82.5 61.5 1.5 61.5"></polygon>
+            <path d="M44,24 L72,24 L72,37 L44,37 L44,24 Z M12,37 L40,37 L40,50 L12,50 L12,37 Z" id="Shape" fill="#F9C1DC" fill-rule="nonzero"></path>
+            <polygon id="Path" stroke="#222222" stroke-width="3" points="13.5 37.5 70.5 37.5 70.5 49.5 13.5 49.5"></polygon>
+            <g id="b-link" transform="translate(12.000000, 12.000000)" fill="#A3C4FD" fill-rule="nonzero">
+                <polygon id="b" points="0 0 60 0 60 15 0 15"></polygon>
+            </g>
+            <polygon id="Path" stroke="#222222" stroke-width="3" points="13.5 13.5 70.5 13.5 70.5 25.5 13.5 25.5"></polygon>
+            <path d="M13.5,13.5 L41.5,13.5 L41.5,49.5 L13.5,49.5 L13.5,13.5 Z M42.5,13.5 L70.5,13.5 L70.5,49.5 L42.5,49.5 L42.5,13.5 Z" id="Shape" stroke="#222222" stroke-width="3"></path>
+            <g id="Group" transform="translate(50.846724, 49.846715) scale(-1, 1) rotate(-135.000000) translate(-50.846724, -49.846715) translate(40.846724, 23.346715)">
+                <g id="c-link" fill="#1CFEFE" fill-rule="nonzero">
+                    <polygon id="c" points="0 44.847 0 0.38 20 0.38 20 44.847 10 52.673"></polygon>
+                </g>
+                <polygon id="Path" stroke="#222222" stroke-width="3" points="1.5 44.116 10 50.768 18.5 44.116 18.5 1.88 1.5 1.88"></polygon>
+            </g>
+            <g id="Group" transform="translate(41.617399, 40.617154) rotate(-45.000000) translate(-41.617399, -40.617154) translate(31.617399, 36.117154)">
+                <g id="d-link" fill="#FFFFFF" fill-rule="nonzero">
+                    <polygon id="d" points="0 0 20 0 20 9 0 9"></polygon>
+                </g>
+                <polygon id="Path" stroke="#222222" stroke-width="3" points="1.5 1.5 18.5 1.5 18.5 7.5 1.5 7.5"></polygon>
+            </g>
+            <path d="M52.749,46.799 L53.475,47.526 M57.341,51.392 L65.698,59.749" id="Shape" stroke="#222222" stroke-width="3" stroke-linecap="square" stroke-linejoin="round"></path>
+        </g>
+    </g>
+</svg>
