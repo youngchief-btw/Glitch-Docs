@@ -1,95 +1,95 @@
 The following languages and frameworks are supported on Glitch-
 
-1. CSS (Cascading Style Sheets)
+- CSS (Cascading Style Sheets)
 
-2. HTML(Hyper Text Markup Language)
+- HTML(Hyper Text Markup Language)
 
-3. Ember.JS
+- Ember.JS
 
-4. Ruby
+- Ruby
 
-5. Ruby on Rails
+- Ruby on Rails
 
-6. Python
+- Python
 
-7. pip
+- pip
 
-8. Java
+- Java
 
-9. Rust
+- Rust
 
-10. C
+- C
 
-11. C++
+- C++
 
-12. .NET
+- .NET
 
-13. Swift
+- Swift
 
-14. ClojureScript
+- ClojureScript
 
-15. PHP
+- PHP
 
-16. Perl
+- Perl
 
-17. Haskell
+- Haskell
 
-18. Elixir
+- Elixir
 
-19. CPAN
+- CPAN
 
-20. Racket
+- Racket
 
-21. JavaScript
+- JavaScript
 
-22. BuckleScript
+- BuckleScript
 
-23. Lua
+- Lua
 
-24. Xen Text
+- Xen Text
 
-25. CoffeeScript
+- CoffeeScript
 
-26. EJS
+- EJS
 
-27. PUG
+- PUG
 
-28. Jade
+- Jade
 
-29. Deno
+- Deno
 
-30. Lisp
+- Lisp
 
-31. Node.JS
+- Node.JS
 
-32. Bash
+- Bash
 
-33. Discord.PY
+- Discord.PY
 
-34. Discord.JS
+- Discord.JS
 
-35. Node Package Manager (NPM) (Inaccessible in the app terminal)
+- Node Package Manager (NPM) (Inaccessible in the app terminal)
 
-36. Shell
+- Shell
 
-37. React.JS
+- React.JS
 
-38. Draft.JS
+- Draft.JS
 
-39. C# (C Sharp)
+- C# (C Sharp)
 
-40. TypeScript
+- TypeScript
 
-41. Vue.JS
+- Vue.JS
 
-42. Gem
+- Gem
 
-43. Yarn
+- Yarn
 
-44. Poetry
+- Poetry
 
-45. Pipenv
+- Pipenv
 
-46. Nuxt.JS
+- Nuxt.JS
 
-47. Svelte.JS
+- Svelte.JS
