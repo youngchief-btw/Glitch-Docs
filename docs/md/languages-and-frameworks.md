@@ -1,4 +1,12 @@
-The following languages and frameworks are supported on Glitch-
+The following languages, package managers and frameworks are currenly supported on Glitch-
+
+- Yarn
+
+- Poetry
+
+- pip
+
+- Pipenv
 
 - CSS (Cascading Style Sheets)
 
@@ -11,8 +19,6 @@ The following languages and frameworks are supported on Glitch-
 - Ruby on Rails
 
 - Python
-
-- pip
 
 - Java
 
@@ -83,12 +89,6 @@ The following languages and frameworks are supported on Glitch-
 - Vue.JS
 
 - Gem
-
-- Yarn
-
-- Poetry
-
-- Pipenv
 
 - Nuxt.JS
 
