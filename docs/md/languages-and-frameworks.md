@@ -72,6 +72,8 @@ The following languages are currently supported on Glitch-
 
 - TypeScript
 
+- SQL
+
 The following frameworks are currently supported on Glitch-
 
 - Nuxt.JS
@@ -97,3 +99,21 @@ The following frameworks are currently supported on Glitch-
 - Deno
 
 - Vue.JS
+
+- Django
+
+- Flask
+
+- Bottle
+
+- Pysimplegui
+
+- Web2py
+
+- TurboGears
+
+- uWSGI
+
+- Twisted
+
+- Tornado
