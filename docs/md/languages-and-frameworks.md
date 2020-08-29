@@ -1,4 +1,4 @@
-The following languages, package managers and frameworks are currenly supported on Glitch-
+The following package managers are currenly supported on Glitch-
 
 - Yarn
 
@@ -6,17 +6,19 @@ The following languages, package managers and frameworks are currenly supported 
 
 - pip
 
+- Gem
+
 - Pipenv
+
+- Node Package Manager (NPM) (Inaccessible in the app terminal)
+
+The following languages are currently supported on Glitch-
 
 - CSS (Cascading Style Sheets)
 
 - HTML(Hyper Text Markup Language)
 
-- Ember.JS
-
 - Ruby
-
-- Ruby on Rails
 
 - Python
 
@@ -27,8 +29,6 @@ The following languages, package managers and frameworks are currenly supported 
 - C
 
 - C++
-
-- .NET
 
 - Swift
 
@@ -62,34 +62,38 @@ The following languages, package managers and frameworks are currenly supported 
 
 - Jade
 
-- Deno
-
 - Lisp
-
-- Node.JS
 
 - Bash
 
-- Discord.PY
-
-- Discord.JS
-
-- Node Package Manager (NPM) (Inaccessible in the app terminal)
-
 - Shell
-
-- React.JS
-
-- Draft.JS
 
 - C# (C Sharp)
 
 - TypeScript
 
-- Vue.JS
-
-- Gem
+The following frameworks are currently supported on Glitch-
 
 - Nuxt.JS
 
 - Svelte.JS
+
+- .NET
+
+- Ruby on Rails
+
+- Discord.PY
+
+- Discord.JS
+
+- Node.JS
+
+- React.JS
+
+- Draft.JS
+
+- Ember.JS
+
+- Deno
+
+- Vue.JS
