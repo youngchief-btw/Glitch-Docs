@@ -1,5 +1,7 @@
 # Types of Bans
 
+**Important: All bans now return the "This project is not running" screen. This page is for reference.**
+
 Projects can get banned on Glitch for a number of reasons, here are a few:
 
 
