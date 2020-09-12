@@ -10,7 +10,9 @@ The following package managers are currenly supported on Glitch-
 
 - Pipenv
 
-- Node Package Manager (NPM) (Inaccessible in the app terminal)
+- NPM (Inaccessible in the app terminal)
+
+- Composer (PHP)
 
 The following languages are currently supported on Glitch-
 
@@ -74,6 +76,8 @@ The following languages are currently supported on Glitch-
 
 - SQL
 
+- Make/Makefiles
+
 The following frameworks are currently supported on Glitch-
 
 - Nuxt.JS
@@ -117,3 +121,5 @@ The following frameworks are currently supported on Glitch-
 - Twisted
 
 - Tornado
+
+- Laravel
